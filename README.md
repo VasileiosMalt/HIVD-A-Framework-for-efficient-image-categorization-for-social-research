@@ -8,14 +8,14 @@ The framework addresses a fundamental challenge in computational social science:
 
 ## The Challenge
 
-In social and political research, images belonging to the same conceptual category often appear in widely varied visual forms. For example, political symbols, activist imagery, and memes can manifest in countless visual variations while maintaining the same theoretical meaning. Traditional computational methods struggle with this diversity, making automated categorization difficult and inefficient.
+In social and political research, images belonging to the same conceptual category often appear in widely varied visual forms. For example, political symbols, activist imagery, and memes can manifest in countless visual variations while maintaining the same theoretical meaning. Traditional computational methods struggle with this diversity, making automated categorisation difficult and inefficient.
 
 ## Key Methodological Innovations
 
 ### 1. **Class Solidification**
 Creating explicit definitions for visual characteristics that qualify images for a particular category, making computational classification clearer and more consistent.
 
-### 2. **Category Refinement and Subcategorization**
+### 2. **Category Refinement and Subcategorisation**
 Splitting broad theoretical constructs into visually coherent subgroups, reducing diversity within categories without losing theoretical richness.
 
 ### 3. **Bridging Qualitative and AI Methods**
@@ -36,14 +36,14 @@ The framework has been validated through several case studies:
 
 This framework is particularly valuable for:
 
-- **Computational Social Scientists** analyzing large-scale image datasets
+- **Computational Social Scientists** analysing large-scale image datasets
 - **Digital Humanities Researchers** working with visual social media data
 - **Political Communication Scholars** studying online activism and political imagery
 - **Data Scientists** dealing with high intra-class visual diversity in classification tasks
 
 ## Key Features
 
-- Scalable methods for visual categorization in social research
+- Scalable methods for visual categorisation in social research
 - Integration of qualitative and quantitative approaches
 - Efficient handling of visually diverse image categories
 - Practical solutions for limited training data scenarios
