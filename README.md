@@ -33,19 +33,9 @@ The framework has been successfully applied to:
 - **Instagram Political Visibility**: Mapping regimes of online political visibility of activists
 - **Cross-cultural Visual Activism**: Understanding how visual political participation varies across contexts
 
-## Framework Architecture
+## Framework In A NutShell
 
-```
-Ethnographic Analysis → Visual Category Definition → Class Solidification
-                                                            ↓
-        Reference Image Selection ← Subcategorization ← Category Refinement
-                    ↓
-        Enhanced Zero-Shot Classification
-                    ↓
-        Object Detection Verification
-                    ↓
-            Final Classification
-```
+![The Framework's logic](https://raw.githubusercontent.com/VasileiosMalt/HIVD-A-Framework-for-efficient-image-categorization-for-social-research/refs/heads/main/framework2.png){: width="1192" height="415" }
 
 ## Core Principles
 
