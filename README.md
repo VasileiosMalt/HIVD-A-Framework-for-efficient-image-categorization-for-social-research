@@ -8,6 +8,8 @@
 
 This repository contains the methodological framework and computational approaches developed in the dissertation **"A Framework for Efficient Image Categorisation in Social Research: Addressing High Intra-Class Visual Diversity"** (University of Helsinki, 2026).
 
+**NOTE: IT CONTAINS THE IN-CODE APPLICATION OF THE FRAMEWORK, AND NOT THE TOTALITY OF ITS CONTRIBUTIONS WHICH WERE ALSO THEORETICAL** 
+
 The framework attempts to address a fundamental challenge in computational social science: **how to accurately classify political imagery when images within the same theoretical category which exhibit substantially high visual diversity between each other and altogether** - a phenomenon identified as **High Intra-Class Visual Diversity (HIVD)**.
 
 ## The Challenge: High Intra-Class Visual Diversity
