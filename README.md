@@ -57,7 +57,7 @@ If you use this framework in your research, please cite:
 Maltezos, V. (2024). A Framework for Efficient Image Categorisation in Social Research: 
 Addressing High Intra-Class Visual Diversity. [Doctoral dissertation, University of Helsinki]. 
 Helda. https://helda.helsinki.fi/items/9acc572a-1028-49a2-b7c0-091577d148c3
-URN: urn.fi/URN:ISBN:978-952-84-1827-6
+URN:ISBN:978-952-84-1827-6
 ```
 
 ## Full Dissertation
@@ -67,7 +67,9 @@ The complete dissertation is available at the University of Helsinki Digital Rep
 
 ## License
 
-The dissertation text can be read and printed for personal and research use. Commercial use is not allowed without permission.
+**Dissertation**: The dissertation text can be read and printed for personal and research use. Commercial use is not allowed without permission.
+
+**Repository**: This repository contains documentation and information about the framework described in the dissertation. Please refer to the dissertation for details on using the methodological approaches described.
 
 ## Contact
 
