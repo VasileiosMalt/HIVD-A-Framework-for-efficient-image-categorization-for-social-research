@@ -8,21 +8,21 @@
 
 This repository contains the methodological framework and computational approaches developed in the dissertation **"A Framework for Efficient Image Categorisation in Social Research: Addressing High Intra-Class Visual Diversity"** (University of Helsinki, 2026).
 
-The framework addresses a fundamental challenge in computational social science: **how to accurately classify political imagery when images within the same theoretical category exhibit substantial visual diversity** - a phenomenon identified as **High Intra-Class Visual Diversity (HIVD)**.
+The framework attempts to address a fundamental challenge in computational social science: **how to accurately classify political imagery when images within the same theoretical category which exhibit substantially high visual diversity between each other and altogether** - a phenomenon identified as **High Intra-Class Visual Diversity (HIVD)**.
 
 ## The Challenge: High Intra-Class Visual Diversity
 
-In political and social research, images that belong to the same conceptual category (e.g., "environmental activism", "protest imagery", "political memes") often display significant visual differences. Traditional computer vision approaches struggle with this diversity because they assume visual consistency within categories. This framework bridges ethnographic insights with artificial intelligence capabilities to solve this problem.
+In political and social research, images that belong to the same conceptual category (e.g., "environmental activism", "protest imagery", "political memes") often display significant visual differences.
 
 ## Key Contributions
 
-### Methodological Innovations
+### Methodological Steps
 
 1. **Class Solidification**: Forces explicit definition of visual characteristics that qualify images for specific categories
 2. **Category Refinement**: Breaks broad theoretical constructs into visually coherent subgroups
 3. **Subcategorization**: Addresses visual diversity while enriching theoretical understanding
 4. **Object Detection Verification**: Post-classification system identifying potential misclassifications based on compositional rules
-5. **Enhanced Zero-Shot Classification**: Incorporates visual information from reference images to improve performance without extensive training datasets
+5. **Enhanced "Strong" Embedding-based Zero-Shot Classification**: Incorporates visual information from reference images to improve performance without extensive training datasets
 
 ### Research Applications
 
@@ -57,13 +57,6 @@ Ethnographic Analysis → Visual Category Definition → Class Solidification
 ## Research Context
 
 ### Dissertation Studies
-
-The framework emerged from four interconnected studies:
-
-1. **Study 1**: Unsupervised similarity-based approach to Pepe the Frog memes in Hong Kong's democracy movement
-2. **Study 2**: Supervised classification development for European environmental activism imagery
-3. **Study 3**: Framework testing for mapping activist visibility on Instagram
-4. **Study 4**: Enhanced zero-shot classification with reference image embeddings
 
 ## Use Cases
 
@@ -131,9 +124,3 @@ This research was conducted at the Faculty of Social Sciences, University of Hel
 ## Links
 
 - [Full Dissertation (HELDA Repository)](https://helda.helsinki.fi/items/9acc572a-1028-49a2-b7c0-091577d148c3)
-- [University of Helsinki](https://www.helsinki.fi/)
-- [Faculty of Social Sciences](https://www.helsinki.fi/en/faculty-social-sciences)
-
----
-
-**Keywords**: Computational Social Science, Image Classification, Political Imagery, Visual Activism, Machine Learning, Ethnographic AI, Zero-Shot Learning, Social Movement Analysis, Digital Methods
