@@ -101,10 +101,6 @@ This dissertation is article-based and draws from multiple peer-reviewed publica
 Faculty of Social Sciences  
 University of Helsinki  
 
-## License
-
-This publication is copyrighted. You may download, display and print it for your own personal use. Commercial use is prohibited.
-
 ## Acknowledgments
 
 This research was conducted at the Faculty of Social Sciences, University of Helsinki, as part of the Dissertationes Universitatis Helsingiensis series (27/2026).
