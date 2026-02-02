@@ -123,6 +123,9 @@ HIVD_Classifier/
 python .\main.py
 ```
 
+Web interface will open automatically at:
+http://127.0.0.1:8000
+
 > ⏳ **First launch takes 2-5 minutes** as AI models are downloaded (~2GB). Subsequent launches are much faster.
 
 ### Step 3: Create Your Categories
