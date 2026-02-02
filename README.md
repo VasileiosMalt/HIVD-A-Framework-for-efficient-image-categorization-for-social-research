@@ -204,7 +204,7 @@ If you've created subcategories (e.g., "Protest" → "Protest Signs", "Protest C
 | Strategy | How It Works | Best For |
 |----------|--------------|----------|
 | **POST** (Default) | First sorts into main category, then into subcategory | When subcategories are refinements |
-| **PRE** | All subcategories compete equally from the start | When subcategories are distinct |
+| **PRE** | All subcategories compete equally from the start | When subcategories are created purely to assist the computational procedure when their main categories are too abstract (Method used during research)  |
 
 > 💡 **Not sure?** Leave it on POST—it works well for most research projects.
 
